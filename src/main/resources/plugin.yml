@@ -1,0 +1,4 @@
+name: Afkkick
+version: ${project.version}
+main: afkkick.afk.Afk
+api-version: 1.13
